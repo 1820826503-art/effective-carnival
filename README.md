@@ -42,8 +42,8 @@ In this information-saturated era, professionals, students, and freelance creato
 <img width="1000" height="517" alt="image" src="https://github.com/user-attachments/assets/e4a67fe7-5563-4b6a-8042-c67ed66cf0da" />
  <p align="center">
 
-   <h3 align="center">
- <a href=>[[Create AI Mind Map](https://www.processon.io/)] →</a>
+ <h3 align="center">
+[Create AI Mind Map](https://www.processon.io/)
 
 ##  III. Global collaboration: Seamless switching between 17 languages
 
@@ -60,8 +60,8 @@ In this information-saturated era, professionals, students, and freelance creato
   <img width="1911" height="990" alt="image" src="https://github.com/user-attachments/assets/96ceba7c-ea6b-45f1-b2c6-43aebca40dfd" />
  <p align="center">
 
-   <h3 align="center">
- <a href=>[[Create AI Mind Map](https://www.processon.io/)] →</a>
+ <h3 align="center">
+[Create AI Mind Map](https://www.processon.io/)
 
 ##  IV. Intelligent style enhancement
 
@@ -78,7 +78,7 @@ In this information-saturated era, professionals, students, and freelance creato
  <p align="center">
 
    <h3 align="center">
- <a href=>[[Create AI Mind Map](https://www.processon.io/)] →</a>
+[Create AI Mind Map](https://www.processon.io/)
  </h3>
 
 When AI handles repetitive tasks such as information processing, structure building, and language conversion, we can focus our energy on high-value aspects like creative brainstorming and strategic decision-making. Using ProcessOn AI's mind mapping AI tool can improve your work efficiency, whether you're working in a multinational team, conducting academic research, or engaging in creative projects.

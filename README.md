@@ -24,7 +24,7 @@ In this information-saturated era, professionals, students, and freelance creato
  <p align="center">
 
    <h3 align="center">
-[Create AI Mind Map](https://www.processon.io/)
+[Create AI Mind Map](https://www.processon.io)
 
 ## II. One-click structuring of complex information
 
